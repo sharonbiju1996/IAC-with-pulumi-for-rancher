@@ -1,4 +1,4 @@
-module github.com/your-user/keycloak-k8s-pulumi/infra
+module github.com/sharonbiju1996/IAC-with-pulumi-for-rancher/infra
 
 go 1.26.6
 
