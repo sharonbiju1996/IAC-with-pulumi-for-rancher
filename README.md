@@ -37,6 +37,7 @@ make up
 17. [Assumptions](#17-assumptions)
 18. [Possible improvements](#18-possible-improvements)
 19. [Time spent](#19-time-spent)
+20. [O/P_Screenshots](#20-o/p-screenshot)
 
 ---
 
@@ -788,3 +789,7 @@ After `make purge`, the next `make up` starts completely fresh, with new passwor
 ## 19. Time spent
 
 **Total: about 16 hours** (setup, development, deployment, testing and documentation).
+
+## 20 Screenshots<img width="1610" height="1056" alt="Screenshot 2026-09-22 072804" src="https://github.com/user-attachments/assets/7a81ee24-3259-4045-a5b6-911e7c36770c" />
+<img width="1897" height="935" alt="Screenshot 2026-09-22 072855" src="https://github.com/user-attachments/assets/76397557-2236-4df0-bf32-d47ee396188f" />
+
